@@ -6,7 +6,7 @@ OBSERVATIONS
 
 2. The variance of both the Capomulin (24.94) and Ramicane (23.48) regimens were substantially lower than the other treatments. This could be seen as the drugs having a consistent effect on tumour size.
 
-3.The study itself was fair in that there was an even number of male and female mice.
+3. The study itself was fair in that there was an even number of male and female mice.
 
 
 # Unit 5 Homework: The Power of Plots
